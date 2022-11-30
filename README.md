@@ -1,6 +1,7 @@
 # Backendredi
 Redi Project
 Create the FastAPI environment
+Create a UVIcorn server
 create your app environment
 create a database
 connect to database 
